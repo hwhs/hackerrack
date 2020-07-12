@@ -1,0 +1,8 @@
+#! /bin/bash
+
+for i in $(seq 1 50)
+do
+    echo $i
+done
+
+#seq 1 50
